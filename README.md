@@ -1,2 +1,4 @@
 # Tugas_Individu
-Yanu Ade Safikri -18051204021
+Nama   : Yanu Ade Safikri
+Nim    : 18051204021
+Kalesa : Teknik Informatika 20018 A
