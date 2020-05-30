@@ -1,0 +1,12 @@
+C:\Users\adeku\source\repos\Opsionaal\Opsionaal\bin\Debug\Opsionaal.exe.config
+C:\Users\adeku\source\repos\Opsionaal\Opsionaal\bin\Debug\Opsionaal.exe
+C:\Users\adeku\source\repos\Opsionaal\Opsionaal\bin\Debug\Opsionaal.pdb
+C:\Users\adeku\source\repos\Opsionaal\Opsionaal\obj\Debug\Opsionaal.csprojAssemblyReference.cache
+C:\Users\adeku\source\repos\Opsionaal\Opsionaal\obj\Debug\Opsionaal.Form1.resources
+C:\Users\adeku\source\repos\Opsionaal\Opsionaal\obj\Debug\Opsionaal.Properties.Resources.resources
+C:\Users\adeku\source\repos\Opsionaal\Opsionaal\obj\Debug\Opsionaal.csproj.GenerateResource.cache
+C:\Users\adeku\source\repos\Opsionaal\Opsionaal\obj\Debug\Opsionaal.csproj.CoreCompileInputs.cache
+C:\Users\adeku\source\repos\Opsionaal\Opsionaal\obj\Debug\Opsionaal.exe
+C:\Users\adeku\source\repos\Opsionaal\Opsionaal\obj\Debug\Opsionaal.pdb
+C:\Users\adeku\source\repos\Opsionaal\Opsionaal\obj\Debug\Opsionaal.Form2.resources
+C:\Users\adeku\source\repos\Opsionaal\Opsionaal\obj\Debug\Opsionaal.Form3.resources
