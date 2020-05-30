@@ -1,0 +1,48 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding:0;
+    background-image: url(../img/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg);
+    background-attachment: fixed;;
+}
+.konten{
+margin: auto;
+color: aliceblue;
+font-family: viga;
+font-size: 250%;
+position: absolute;
+top: 15%;
+left: 60%;
+transform: translate(-15%, -60%);
+}
+img{
+    text-align: center;
+}
+.tombol :hover{
+    color: yellow;
+}
+.tombol{
+    position: absolute;
+    top: 25%;
+    left: 75%;
+    transform: translate(-15%, -60%);
+    color: antiquewhite;
+    font-family: viga;
+    font-size: 300%;
+
+}
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+.type > * {
+    overflow: hidden;
+    white-space: nowrap;
+    animation: typingAnim 3s steps(25) infinite ;
+}
+
+@keyframes typingAnim {
+    from {width: 0;}
+    to {width: 100%;}
+  }
